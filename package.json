@@ -1,0 +1,27 @@
+{
+  "name": "puppeteer-lowes",
+  "version": "1.0.0",
+  "description": "lowes cookie",
+  "main": "index.js",
+  "scripts": {
+    "test": "tes",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackcodefan/puppeteer-lowes.git"
+  },
+  "keywords": [
+    "puppeteer"
+  ],
+  "author": "codefan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blackcodefan/puppeteer-lowes/issues"
+  },
+  "homepage": "https://github.com/blackcodefan/puppeteer-lowes#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "puppeteer": "^5.2.1"
+  }
+}
